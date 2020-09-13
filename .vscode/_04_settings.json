@@ -1,0 +1,10 @@
+{
+  "glsl-canvas.uniforms": {
+    "u_power": 1.0,
+    "u_tiles": 0.0
+  },
+  "glsl-canvas.textures": {
+    "0": "./textures/hokusai.jpg"
+  },
+  "glsl-canvas.refreshOnChange": false
+}

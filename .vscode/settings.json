@@ -1,0 +1,7 @@
+{
+  "glsl-canvas.uniforms": {
+    "u_power": 1.0,
+    "u_tiles": 0.0
+  },
+  "glsl-canvas.refreshOnChange": false
+}
