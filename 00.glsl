@@ -1,3 +1,5 @@
+// https://thebookofshaders.com/glossary/?search=vec4
+
 precision mediump float;
 
 void main(){

@@ -1,8 +1,13 @@
+// https://thebookofshaders.com/glossary/?search=vec3
+// https://thebookofshaders.com/glossary/?search=vec4
+// https://thebookofshaders.com/glossary/?search=sin
+// https://thebookofshaders.com/glossary/?search=mix
+
 precision mediump float;
 
 uniform float u_time;
 
-// https://thebookofshaders.com/glossary/?search=sin
+// Normalize value from "-1 - 1" to "0 - 1"
 float n(float x){
   return x/2.+.5;
 }

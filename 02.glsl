@@ -1,3 +1,7 @@
+// https://thebookofshaders.com/glossary/?search=vec3
+// https://thebookofshaders.com/glossary/?search=vec4
+// https://thebookofshaders.com/glossary/?search=step
+
 precision mediump float;
 
 uniform vec2 u_resolution;
