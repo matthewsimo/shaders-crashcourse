@@ -4,7 +4,9 @@
     "u_tiles": 0.0
   },
   "glsl-canvas.textures": {
-    "0": "./textures/hokusai.jpg"
+    "0": "./textures/hokusai.jpg",
+    "1": "./textures/baby-ben.png"
   },
-  "glsl-canvas.refreshOnChange": false
+  "glsl-canvas.refreshOnChange": true,
+  "glsl-canvas.refreshOnSave": true
 }

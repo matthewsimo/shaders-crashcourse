@@ -8,6 +8,7 @@ Graphics pipeline programming is very daunting and in an effort to reduce cognit
 
 1. Uses [VS Code](https://code.visualstudio.com/)
 2. Uses the VS Code Extensionl [GLSL Canvas](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas)
+3. If you want syntax highlighting, I recommend installing [Shader Support](https://marketplace.visualstudio.com/items?itemName=slevesque.shader) too
 
 If you follow these requirements you will get a hot reloading local environment without the hassle in project generation, build configurations, webGL set up, uniform management & loading, etc..
 
