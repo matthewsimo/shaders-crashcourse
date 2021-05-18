@@ -16,7 +16,7 @@ Even if you choose not to leverage these tools, you can still view the glsl file
 
 ## Organization
 
-Each example has it's own file, intended to be viewed and understood sequentially. If there are unique or specific settings pertaining to a file, there will be a `json` file inside the `.vscode` directory. Just rename the file from `_[file number]_settings.json` to `settings.json` and everything the GLSL Canvas extension needs for that file will be in place.
+Each example has its own file, intended to be viewed and understood sequentially. If there are unique or specific settings pertaining to a file, there will be a `json` file inside the `.vscode` directory. Just rename the file from `_[file number]_settings.json` to `settings.json` and everything the GLSL Canvas extension needs for that file will be in place.
 
 All uniforms and attributes are covered in the [extension documentation](https://github.com/actarian/vscode-glsl-canvas). All necessary texture files will be found in the `textures` directory.
 
